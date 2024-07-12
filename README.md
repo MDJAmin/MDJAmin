@@ -8,6 +8,3 @@ https://t.me/Darklordafc004
 
 🟨Instagram:
 https://www.instagram.com/darklordyt_
-
-🟥YouTube:
-https://www.youtube.com/c/DARKLORDCDL
