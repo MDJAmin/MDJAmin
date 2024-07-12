@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Amin
-- 👀 I’m interested in Programming & Graphic design ~
-- 🌱 I’m currently learning React tool's & Data analysis
+- 👋 Heyyy, I’m Amin.
+- 👀 interested in Programming & Graphic design ~
+- 🌱 currently learning React tool's & Data analysis
 - 📫 How to reach me :
   
 🟦Telegram:
 https://t.me/Darklordafc004
-or my pv:
+my pv:
 https://t.me/IDARKLORD
 
 🟨Instagram:
