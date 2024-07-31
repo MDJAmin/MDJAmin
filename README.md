@@ -3,9 +3,6 @@
 - 🌱 currently learning React tool's & Data analysis
 - 📫 How to reach me :
 
-🟦Telegram:
-https://t.me/Darklordafc004
-
 my pv:
 https://t.me/IDARKLORD
 
