@@ -17,4 +17,4 @@ Hello and Welcome 👋, I'm Amin ~<br>👤 I'm from Iran and I'm 18 years old.<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MDJAmin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MDJAmin&icon=2&color=193)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MDJAmin&icon=2&color=13-)](https://visitcount.itsvg.in)
