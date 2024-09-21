@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello and Welcome 👋, I'm Amin ~<br>👤 I'm from Iran and I'm 18 years old.<br>👨‍💻 creative Front-End Developer and Graphic Designer.<br>👨‍🏫 I enjoy teaching coding and design skills ^^<br>🌱 Currently learning MERN stack, React Native, and data analysis!<br>🏆 The goal is to create unique and appealing websites.
+Hello and Welcome 👋, I'm Amin ~<br>👤 I'm from Iran and I'm 18 years old.<br>👨‍💻 Creative Front-End Developer and Graphic Designer.<br>👨‍🏫 I enjoy teaching coding and design skills ^^<br>🌱 Currently learning MERN stack, React Native, and data analysis!<br>🏆 The goal is to create unique and appealing websites.
 
 
 ## 🌐 Socials:
