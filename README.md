@@ -56,6 +56,3 @@ Hello and Welcome 👋, I'm Amin ~<br>
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/?gclid=CjwKCAjw6c63BhAiEiwAF0EH1DiTvr4m30eBcsn8TZtJTX4XP5ufa8vBV8l8HoMh0Gkf_gq1WCNpKxoCWnoQAvD_BwE)
-
----
-[![](https://visitcount.itsvg.in/api?id=MDJAmin&icon=2&color=12)](https://github.com/MDJAmin)
