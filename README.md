@@ -13,9 +13,6 @@ Hello and Welcome 👋, I'm Amin ~<br>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Amin_4994)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/DARKLORDCDL) 
 
-# 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MDJAmin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/MDJAmin?tab=repositories)
-
 # 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
