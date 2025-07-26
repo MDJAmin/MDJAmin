@@ -1,8 +1,8 @@
 # 🖋 About Me:
 Hello and Welcome 👋, I'm Amin ~<br>
-👨‍💻 Creative Front-End Developer & Graphic Designer
-👨‍🏫 Passionate about teaching coding and design skills to others ^^
-🌱 Currently learning Product Design, React Native, and the MERN Stack
+👨‍💻 Creative Front-End Developer & Graphic Designer<br>
+👨‍🏫 Passionate about teaching coding and design skills to others ^^<br>
+🌱 Currently learning Product Design, React Native, and the MERN Stack<br>
 🏆 Aiming to create unique and visually appealing user interfaces
 
 ## 🌐 Socials:
