@@ -1,9 +1,9 @@
-# 💫 About Me:
+# 🖋 About Me:
 Hello and Welcome 👋, I'm Amin ~<br>
-👨‍💻 Creative Front-End Developer and Graphic Designer.<br>
-👨‍🏫 I enjoy teaching coding and design skills ^^<br>
-🌱 Currently learning MERN stack, React Native, and data analysis!<br>
-🏆 The goal is to create unique and appealing websites.
+👨‍💻 Creative Front-End Developer & Graphic Designer
+👨‍🏫 Passionate about teaching coding and design skills to others ^^
+🌱 Currently learning Product Design, React Native, and the MERN Stack
+🏆 Aiming to create unique and visually appealing user interfaces
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/darklordyt_)
