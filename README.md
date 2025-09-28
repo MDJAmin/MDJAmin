@@ -2,18 +2,18 @@
 
 Hello and Welcome 👋, I'm Amin ~<br>
 👨‍💻 Creative Front-End Developer & Graphic Designer<br>
-👨‍🏫 Passionate about teaching coding and design skills to others ^^<br>
-🌱 Currently learning Product Design, React Native, and the MERN Stack<br>
+👨‍🏫 I love teaching coding and design skills to help others grow ^^<br>
+🌱 Currently learning Product Design Thinking & building high-performance web applications<br>
 🏆 Aiming to create unique and visually appealing user interfaces
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/darklordyt_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/m-amin-jafarnezhad)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mdjamin_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjamin)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24569427/amin)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/darklordvt)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Amin_4994)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/DARKLORDCDL)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MDJAmin_)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MDJ_Amin)
 
 # 💻 Tech Stack:
 
