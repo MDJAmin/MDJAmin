@@ -1,10 +1,10 @@
 # 🖋 About Me:
 
 Hello and Welcome 👋, I'm Amin ~<br>
-👨‍💻 Creative Front-End Developer & Graphic Designer<br>
+👨‍💻 Front-End Developer & Graphic Designer 🎨<br>
 👨‍🏫 I love teaching coding and design skills to help others grow ^^<br>
-🌱 Currently learning Product Design Thinking & building high-performance web applications<br>
-🏆 Aiming to create unique and visually appealing user interfaces
+💡 Currently, I'm teaching and developing high-performance web applications<br>
+🏆 My goal is to gain as many new experiences as I can along the way
 
 ## 🌐 Socials:
 
