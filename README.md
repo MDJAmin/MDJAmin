@@ -10,7 +10,7 @@ Hello and Welcome 👋, I'm Amin ~<br>
 
 ## 🌐 Socials: -->
 
-[![]()]()
+<span style="display:inline-block; width:40px;"></span> 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mdjamin_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjamin)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24569427/amin)
