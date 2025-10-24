@@ -1,4 +1,4 @@
-# 🖋 About Me:
+![Banner](./assets/Banner.svg)
 
 Hello and Welcome 👋, I'm Amin ~<br>
 👨‍💻 Front-End Developer & Graphic Designer 🎨<br>
@@ -6,7 +6,7 @@ Hello and Welcome 👋, I'm Amin ~<br>
 💡 Currently, I'm teaching and developing high-performance web applications<br>
 🏆 My goal is to gain as many new experiences as I can along the way
 
-## 🌐 Socials:
+##
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mdjamin_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjamin)
@@ -15,7 +15,7 @@ Hello and Welcome 👋, I'm Amin ~<br>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MDJAmin_)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MDJ_Amin)
 
-# 💻 Tech Stack:
+#
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -34,6 +34,3 @@ Hello and Welcome 👋, I'm Amin ~<br>
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
-
-
-![Banner](./assets/Banner.svg)
