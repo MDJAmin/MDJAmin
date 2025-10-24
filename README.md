@@ -1,15 +1,17 @@
 
 
-<!-- # 🖋 About Me:
+
+
+## 🌐 Socials: -->
+<div align="center">
+
+# 🖋 About Me:
 
 Hello and Welcome 👋, I'm Amin ~<br>
 👨‍💻 Front-End Developer & Graphic Designer 🎨<br>
 👨‍🏫 I love teaching coding and design skills to help others grow ^^<br>
 💡 Currently, I'm teaching and developing high-performance web applications<br>
 🏆 My goal is to gain as many new experiences as I can along the way
-
-## 🌐 Socials: -->
-<div align="center">
 
 ![Banner](./assets/Banner.svg)
 
