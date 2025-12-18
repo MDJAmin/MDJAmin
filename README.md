@@ -1,6 +1,6 @@
-<div align="center" href="https://mdjamin.me/">
+<a align="center" href="https://mdjamin.me/">
 
 ![Banner](./assets/Banner.svg)
 
-</div>
+</a>
 
